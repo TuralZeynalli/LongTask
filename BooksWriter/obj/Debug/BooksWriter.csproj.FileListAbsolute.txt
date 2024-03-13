@@ -1,0 +1,6 @@
+C:\Users\tural\Desktop\BooksWriter\BooksWriter\bin\Debug\BooksWriter.exe
+C:\Users\tural\Desktop\BooksWriter\BooksWriter\bin\Debug\BooksWriter.pdb
+C:\Users\tural\Desktop\BooksWriter\BooksWriter\obj\Debug\BooksWriter.csproj.AssemblyReference.cache
+C:\Users\tural\Desktop\BooksWriter\BooksWriter\obj\Debug\BooksWriter.csproj.CoreCompileInputs.cache
+C:\Users\tural\Desktop\BooksWriter\BooksWriter\obj\Debug\BooksWriter.exe
+C:\Users\tural\Desktop\BooksWriter\BooksWriter\obj\Debug\BooksWriter.pdb
